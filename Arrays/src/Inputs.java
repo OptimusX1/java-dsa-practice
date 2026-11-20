@@ -42,10 +42,6 @@ public class Inputs {
     }
 
 
-
-
-
-
     static void print1(int[] arr3){
 
         System.out.println(Arrays.toString(arr3));
